@@ -1,23 +1,52 @@
 aid: 13th-lab
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/13th-lab.png
 name: 13th Lab
-description: '13th Lab is a company surfaced as a portfolio company of creandum and added to the API Evangelist
-  network as a stub for enrichment. Sector: other. This profile is a lead awaiting the enrichment pipeline.'
+description: '13th Lab was a Stockholm-based computer vision startup founded in 2012 that built SLAM (Simultaneous Localization and Mapping) technology for mobile devices, letting phones detect and track 2D and 3D objects through the camera in real time. Its products included the PointCloud iOS SDK, the PointCloud library, and the Minecraft Reality app. Backed by Creandum, GP Bullhound, and angel investor Gustav Soderstrom, the company was acquired by Oculus VR (Facebook) in December 2014 for a reported SEK 195M (~$25M), where its team went on to develop standalone inside-out tracking for VR headsets (Oculus Insight). 13th Lab no longer operates as an independent company and publishes no live website, developer portal, or API surface; this profile is retained as a historical identity record.'
 url: https://raw.githubusercontent.com/api-evangelist/13th-lab/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - creandum
+- gp-bullhound
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: acquired
+x-acquired-by: oculus-vr-facebook
+x-acquired-date: '2014-12'
+x-defunct: true
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
-- Other
+- Computer Vision
+- SLAM
+- Augmented Reality
+- Mobile
+- Acquired
+- Stockholm
 apis: []
+common:
+- type: Crunchbase
+  url: https://www.crunchbase.com/organization/13th-lab
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
