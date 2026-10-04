@@ -41,7 +41,7 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
-- Computer-Vision
+- Computer Vision
 - SLAM
 - Augmented Reality
 - Mobile
@@ -55,6 +55,7 @@ tags_raw:
 - Mobile
 - Acquired
 - Stockholm
+- Computer-Vision
 apis: []
 common:
 - type: Crunchbase
