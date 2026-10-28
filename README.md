@@ -64,17 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
+
 13th Lab was a Stockholm-based computer vision startup founded in 2012 that built SLAM (Simultaneous Localization and Mapping) technology for mobile devices, letting phones detect and track 2D and 3D objects through the camera in real time. Its products included the PointCloud iOS SDK, the PointCloud library, and the Minecraft Reality app. Backed by Creandum, GP Bullhound, and angel investor Gustav Soderstrom, the company was acquired by Oculus VR (Facebook) in December 2014 for a reported SEK 195M (~$25M), where its team went on to develop standalone inside-out tracking for VR headsets (Oculus Insight). 13th Lab no longer operates as an independent company and publishes no live website, developer portal, or API surface; this profile is retained as a historical identity record.
 
 **Areas:** Company · Computer Vision · SLAM · Augmented Reality · Mobile · Acquired · Stockholm
 
-## 13th Lab on APIs.io
+## 13th Lab on APIs.io (historical record)
 
 Everything profiled for 13th Lab is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/13th-lab/](https://apis.io/providers/13th-lab/)** — or go straight to one of the APIs or properties below.
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/13th-lab/](https://apis.io/providers/13th-lab/).
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
 ## How this profile is made
 
